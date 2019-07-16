@@ -1,0 +1,14 @@
+D:\Practice\API_Evolution\API_Repository\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.deps.json
+D:\Practice\API_Evolution\API_Repository\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.runtimeconfig.json
+D:\Practice\API_Evolution\API_Repository\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.runtimeconfig.dev.json
+D:\Practice\API_Evolution\API_Repository\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.dll
+D:\Practice\API_Evolution\API_Repository\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.pdb
+D:\Practice\API_Evolution\API_Repository\Infrastructure\bin\Debug\netcoreapp2.2\Entities.dll
+D:\Practice\API_Evolution\API_Repository\Infrastructure\bin\Debug\netcoreapp2.2\Entities.pdb
+D:\Practice\API_Evolution\API_Repository\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csprojResolveAssemblyReference.cache
+D:\Practice\API_Evolution\API_Repository\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Practice\API_Evolution\API_Repository\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfoInputs.cache
+D:\Practice\API_Evolution\API_Repository\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfo.cs
+D:\Practice\API_Evolution\API_Repository\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CopyComplete
+D:\Practice\API_Evolution\API_Repository\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.dll
+D:\Practice\API_Evolution\API_Repository\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.pdb
